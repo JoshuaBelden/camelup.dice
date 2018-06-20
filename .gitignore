@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+lib/packages/
+packages/
+*.suo
+*.user
+*.vspscc
+
+var/
+src/wwwroot/images/portfolio/*
